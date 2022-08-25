@@ -1,0 +1,11 @@
+{
+  "name": "clone",
+  "version": "1.0.0",
+  "description": "This is a clone website of Disney+ Hotstar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kartikey Verma",
+  "license": "ISC"
+}
